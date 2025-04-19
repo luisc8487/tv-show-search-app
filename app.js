@@ -12,7 +12,7 @@ form.addEventListener("submit", async function (e) {
 
 const makeImages = (shows) => {
   if (ul) {
-    ul.innerHTML = "";
+    ul.innerHTML = ""; // Clear the ul of the body after resubmission
   }
   for (let result of shows) {
     if (result.show.image) {
