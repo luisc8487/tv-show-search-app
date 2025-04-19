@@ -21,6 +21,4 @@ const makeImages = (shows) => {
       ul.append(img);
     }
   }
-  console.log(document.querySelectorAll("IMG"));
-  console.log(Object.keys(document.querySelectorAll("IMG")).length);
 };
