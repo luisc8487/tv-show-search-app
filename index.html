@@ -4,8 +4,20 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TV Show Search App</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
   </head>
   <body>
-    <scritpt src="app.js"></script>
+    <h1>TV Show Search</h1>
+    <form id="searchForm">
+      <input
+        type="text"
+        placeholder="Enter TV show name"
+        id="search-input"
+        name="query"
+      />
+      <button>Search</button>
+    </form>
+    <ul></ul>
+    <script src="app.js"></script>
   </body>
 </html>
