@@ -70,6 +70,15 @@ To make the app more user-friendly:
 - The input field is cleared after each search, so you can quickly type a new search term.
 - Previous search results are removed before displaying new ones, so the page stays clean and organized.
 
+## Resources
+
+Here are the resources and technologies used in this project:
+
+- **Axios Library**: Used to make HTTP requests to the TVMaze API. [Axios Documentation](https://axios-http.com/)
+- **TVMaze API**: Provides data about TV shows. [TVMaze API Documentation](https://www.tvmaze.com/api)
+- **HTML**: Used to structure the web page.
+- **JavaScript DOM Manipulation**: Used to dynamically update the web page with search results.
+
 ## Try It Out!
 
 1. Open the `index.html` file in your browser.
