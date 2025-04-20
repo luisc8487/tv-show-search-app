@@ -2,6 +2,8 @@
 
 Welcome to the TV Show Search App! This simple web application allows you to search for TV shows and displays images of the shows that match your search. It uses HTML, JavaScript, and the Axios library to fetch data from the TVMaze API.
 
+![tvMazeAPI](https://github.com/user-attachments/assets/217e858d-ca7a-4543-8945-6a9549fa6b63)
+
 ## How it Works
 
 ### 1. HTML Form for User Input
